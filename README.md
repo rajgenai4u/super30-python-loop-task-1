@@ -1,19 +1,14 @@
-# super30-python-loop-task-1
-# Python Loop Fundamentals Task
+Python Loop Fundamentals:
 
-This repository contains hands-on exercises designed to help you master Python loops (for and while) through practical implementation.
+This repository contains practice exercises covering Python iteration constructs, including for loops, range generation, conditional logic within loops, string manipulation, and list operations.
 
 Task Overview
-The goal of this assignment is to complete the practice problems inside the Jupyter Notebook (Python-Loop-Fundamentals.ipynb).
+The goal of this task is to complete and understand the code implementations provided in the Jupyter Notebook Python-Loop-Fundamentals.ipynb.
 
-Core Concepts Covered:
+Key Topics Covered:
 
-Iterating over ranges, lists, strings, and dictionaries using standard for loops.
-
-Constructing conditional control logic using while loops.
-
-Utilizing loop control statements (break, continue, and pass).
-
-Utilizing build-in helpers such as enumerate() and zip().
-
-Implementing nested loops for complex data structures.
+Basic Sequence Iteration: Printing number ranges ($1$ to $100$) using range().
+Conditional Filtering: Filtering even and odd numbers using modulo operations (%) and if/else branching.
+Accumulators & Algorithms: Calculating totals, factorials, and finding maximum values without built-in functions.
+String Processing: Vowel counting and string reversal through index calculation.
+Data Structure Traversal: Iterating over lists and dictionary key-value pairs (.items()).
